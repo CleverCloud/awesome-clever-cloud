@@ -4,10 +4,19 @@
 
 ## Contents
 
+- [Social](#social)
 - [Blog](#blog)
 - [Demos](#demos)
 - [How-to Deploy](#deploy)
+- [Integration](#integration)
 
+
+## Social
+
+- `official` [Gitter in English 🇬🇧](https://gitter.im/CleverCloud/chatroom-en)
+- `official` [Gitter in French 🇫🇷](https://gitter.im/CleverCloud/chatroom-fr)
+- `official` [#clevercloud on irc.freenode.net 🇬🇧](irc://irc.freenode.net:6667/clevercloud)
+- `official` [Twitter 🇬🇧](https://twitter.com/clever_cloud)
 
 ## Blog
 
@@ -81,6 +90,9 @@ A list of projects to try Clever Cloud easily
 - `article` [Wekan](https://www.clever-cloud.com/blog/features/2017/10/20/1fdba-meteor/)
 - `github` [Rocket Chat](https://github.com/CleverCloud/demo-rocket-chat)
 
+## Integration
+
+ - [JHipster](https://github.com/CleverCloud/generator-jhipster-clevercloud)
 
 ## Contribute
 
