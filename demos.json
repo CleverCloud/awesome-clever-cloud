@@ -1,6 +1,7 @@
 [{
-"name": "Awesome demo", 
-"description": "This is a demo and sample to run on Clever Cloud",
-"tags": ["java", "spring", "mysql", "postgress", "fullstack"],
-"url": "https://github.com/xxxx/xxxxx"
+"name": "demo-nodejs-mongodb-rest", 
+"description": "NodeJS and mongodb example application ",
+"runtime": "node", 
+"tags": ["node", "express", "mongodb", "statsd"],
+"url": "https://github.com/CleverCloud/demo-nodejs-mongodb-rest"
 }]
