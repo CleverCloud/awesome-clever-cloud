@@ -89,6 +89,8 @@ A list of projects to try Clever Cloud easily
 - `article` [Polr](https://www.clever-cloud.com/blog/features/2017/10/18/1fdba-laravel-polr/)
 - `article` [Wekan](https://www.clever-cloud.com/blog/features/2017/10/20/1fdba-meteor/)
 - `github` [Rocket Chat](https://github.com/CleverCloud/demo-rocket-chat)
+- `article` [Drupal](https://gastaud.io/article/drupal-clever-cloud/)
+- `article` [Ghost](https://blog.welcomattic.com/blog/2019-04-09-how-to-deploy-ghost-to-clevercloud/)
 
 ## Integration
 
