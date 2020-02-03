@@ -44,8 +44,6 @@ A list of projects to try Clever Cloud easily
 
 ### Ruby
 
-- [demo-django](https://github.com/CleverCloud/demo-django)
-- [demo-flask](https://github.com/CleverCloud/demo-flask)
 - [demo-rack](https://github.com/CleverCloud/demo-rack)
 - [demo-ruby-rack-statsd](https://github.com/CleverCloud/demo-ruby-rack-statsd)
 - [demo-sinatra-puma-activerecord](https://github.com/CleverCloud/demo-sinatra-puma-activerecord)
@@ -63,6 +61,8 @@ A list of projects to try Clever Cloud easily
 
 ### Python
 
+- [demo-django](https://github.com/CleverCloud/demo-django)
+- [demo-flask](https://github.com/CleverCloud/demo-flask)
 - [demo-python-falcon-statsd](https://github.com/CleverCloud/demo-python-falcon-statsd)
 
 ### Rust
