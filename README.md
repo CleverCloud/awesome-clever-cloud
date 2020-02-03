@@ -83,6 +83,7 @@ A list of projects to try Clever Cloud easily
 
 ## How to Deploy
 
+- `github` [Wordpress](https://github.com/zileo-net/clevercloud-wordpress)
 - `article` [Keycloak](https://www.clever-cloud.com/blog/features/2017/11/10/1fdba-docker/)
 - `article` [Taïga](https://www.clever-cloud.com/blog/features/2017/10/10/1fdba-django-taiga/)
 - `article` [Redmine](https://www.clever-cloud.com/blog/features/2017/10/11/1fdba-rails-redmine/)
