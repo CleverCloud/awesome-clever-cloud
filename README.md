@@ -9,7 +9,7 @@
 - [Demos](#demos)
 - [How-to Deploy](#deploy)
 - [Integration](#integration)
-
+- [IAC](#iac)
 
 ## Social
 
@@ -98,6 +98,10 @@ A list of projects to try Clever Cloud easily
 
  - [Github Actions](https://github.com/47ng/actions-clever-cloud)
  - [JHipster](https://github.com/CleverCloud/generator-jhipster-clevercloud)
+
+## IAC
+
+ - [Ansible role for Clever Cloud deployment by Fretlink](https://github.com/fretlink/ansible-clever)
 
 ## Contribute
 
