@@ -6,9 +6,11 @@
 
 - [Social](#social)
 - [Blog](#blog)
-- [Demos](#demos)
+- [Examples](#examples)
 - [How-to Deploy](#deploy)
 - [Integration](#integration)
+- [Tools](#tools)
+- [Clients](#clients)
 - [IAC](#iac)
 
 ## Social
@@ -22,18 +24,23 @@
 
 - `official` [Clever Cloud blog](https://www.clever-cloud.com/blog/)
 
-## Demos
+### Articles
+
+- https://lunatech.fr/2020/02/07/deployer-une-application-native-quarkus-sur-clever-cloud
+
+
+## Examples
 
 A list of projects to try Clever Cloud easily
 
-### JVM
+### Java, Kotlin & Co
 
 - [demo-war](https://github.com/CleverCloud/demo-war)
 - [demo-springboot-mongo-rest](https://github.com/CleverCloud/demo-springboot-mongo-rest)
 - [demo-spring-boot-kotlin-statsd](https://github.com/CleverCloud/demo-spring-boot-kotlin-statsd)
 - [JHipster](https://github.com/clevercloud-jhipster/jhipster-clever-guide)
 
-### node.js
+### Node.js
 
 - [demo-nodejs-mongodb-rest](https://github.com/CleverCloud/demo-nodejs-mongodb-rest)
 - [demo-hapi-statsd](https://github.com/CleverCloud/demo-hapi-statsd)
@@ -55,7 +62,7 @@ A list of projects to try Clever Cloud easily
 - [demo-lumen-statsd](https://github.com/CleverCloud/demo-lumen-statsd)
 - [demo-laravel-pg](https://github.com/CleverCloud/demo-laravel-pg)
 
-### go
+### Go
 
 - [demo-go-goji-statsd](https://github.com/CleverCloud/demo-go-goji-statsd)
 
@@ -99,9 +106,19 @@ A list of projects to try Clever Cloud easily
  - [Github Actions](https://github.com/47ng/actions-clever-cloud)
  - [JHipster](https://github.com/CleverCloud/generator-jhipster-clevercloud)
 
+## Tools
+
+- [clever-tools](https://github.com/CleverCloud/clever-tools)
+
+## Clients
+
+- [Javascript](https://github.com/CleverCloud/clever-client.js)
+- [Go (Alpha)](https://github.com/CleverCloud/clevercloud-go)
+
 ## IAC
 
  - [Ansible role for Clever Cloud deployment by Fretlink](https://github.com/fretlink/ansible-clever)
+ - [Terraform provider (WIP)](https://github.com/CleverCloud/terraform-provider-clevercloud)
 
 ## Contribute
 

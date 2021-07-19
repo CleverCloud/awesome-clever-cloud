@@ -1,7 +1,9 @@
-[{
-"name": "demo-nodejs-mongodb-rest", 
-"description": "NodeJS and mongodb example application ",
-"runtime": "node", 
-"tags": ["node", "express", "mongodb", "statsd"],
-"url": "https://github.com/CleverCloud/demo-nodejs-mongodb-rest"
-}]
+[
+    {
+        "name": "demo-nodejs-mongodb-rest", 
+        "description": "NodeJS and mongodb example application ",
+        "runtime": "node", 
+        "tags": ["node", "express", "mongodb", "statsd"],
+        "url": "https://github.com/CleverCloud/demo-nodejs-mongodb-rest"
+    }
+]
