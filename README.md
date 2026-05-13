@@ -17,7 +17,6 @@
 
 - `official` [Gitter in English 🇬🇧](https://gitter.im/CleverCloud/chatroom-en)
 - `official` [Gitter in French 🇫🇷](https://gitter.im/CleverCloud/chatroom-fr)
-- `official` [#clevercloud on irc.freenode.net 🇬🇧](irc://irc.freenode.net:6667/clevercloud)
 - `official` [Twitter 🇬🇧](https://twitter.com/clever_cloud)
 
 ## Blog
