@@ -22,7 +22,7 @@
 
 ## Blog
 
-- `official` [Clever Cloud blog](https://www.clever-cloud.com/blog/)
+- `official` [Clever Cloud blog](https://www.clever.cloud/fr/blog/)
 
 ### Articles
 
