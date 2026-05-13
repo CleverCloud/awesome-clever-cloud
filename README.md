@@ -38,7 +38,7 @@ A list of projects to try Clever Cloud easily
 - [demo-war](https://github.com/CleverCloud/demo-war)
 - [demo-springboot-mongo-rest](https://github.com/CleverCloud/demo-springboot-mongo-rest)
 - [demo-spring-boot-kotlin-statsd](https://github.com/CleverCloud/demo-spring-boot-kotlin-statsd)
-- [JHipster](https://github.com/clevercloud-jhipster/jhipster-clever-guide)
+- [demo-play-scala](https://github.com/CleverCloud/play-scala-example)
 
 ### Node.js
 
@@ -48,6 +48,8 @@ A list of projects to try Clever Cloud easily
 - [keystone-demo](https://github.com/CleverCloud/keystone-demo)
 - [demo-casperjs](https://github.com/CleverCloud/demo-casperjs)
 - [demo-iojs](https://github.com/CleverCloud/demo-iojs)
+- [demo-meteorjs-node-esm](https://github.com/CleverCloud/meteorjs-node-esm-example)
+- [demo-materiakv-graphql](https://github.com/CleverCloud/kv-graphql-example)
 
 ### Ruby
 
@@ -55,22 +57,34 @@ A list of projects to try Clever Cloud easily
 - [demo-ruby-rack-statsd](https://github.com/CleverCloud/demo-ruby-rack-statsd)
 - [demo-sinatra-puma-activerecord](https://github.com/CleverCloud/demo-sinatra-puma-activerecord)
 - [demo-rubyonrails-pg-rest](https://github.com/CleverCloud/demo-rubyonrails-pg-rest)
+- [demo-ruby-postgresql](https://github.com/CleverCloud/ruby-postgresql-example)
+- [demo-ruby-rack](https://github.com/CleverCloud/rack-example)
 
 ### PHP
 
 - [demo-php-composer](https://github.com/CleverCloud/demo-php-composer)
 - [demo-lumen-statsd](https://github.com/CleverCloud/demo-lumen-statsd)
 - [demo-laravel-pg](https://github.com/CleverCloud/demo-laravel-pg)
+- [demo-frankenphp-standalone](https://github.com/CleverCloud/php-franken-standalone-example)
+- [demo-frankenphp-symfony](https://github.com/CleverCloud/php-franken-symfony-example)
+- [demo-frankenphp-laravel](https://github.com/CleverCloud/php-franken-laravel-example)
+- [demo-frankenphp-laravel-octane-binary](https://github.com/CleverCloud/php-franken-binary-example)
+- [demo-strapi-cellar](https://github.com/CleverCloud/strapi-example)
+- [demo-moodle](https://github.com/CleverCloud/moodle-example)
+- [demo-wordpress](https://github.com/CleverCloud/wordpress-example)
 
 ### Go
 
 - [demo-go-goji-statsd](https://github.com/CleverCloud/demo-go-goji-statsd)
+- [demo-go-workspaces](https://github.com/CleverCloud/go-workspaces-example)
 
 ### Python
 
 - [demo-django](https://github.com/CleverCloud/demo-django)
 - [demo-flask](https://github.com/CleverCloud/demo-flask)
 - [demo-python-falcon-statsd](https://github.com/CleverCloud/demo-python-falcon-statsd)
+- [demo-python-helloworld-uv](https://github.com/CleverCloud/demo-python-hello-world-uv)
+- [demo-python-django-uv](https://github.com/CleverCloud/python-django-uv-example)
 
 ### Rust
 
@@ -78,7 +92,7 @@ A list of projects to try Clever Cloud easily
 
 ### Haskell
 
-- [demo-haskell](https://github.com/CleverCloud/demo-haskell)
+- [demo-haskell-scotty](https://github.com/CleverCloud/haskell-scotty-example)
 
 ### Docker
 
@@ -87,6 +101,13 @@ A list of projects to try Clever Cloud easily
 - `smalltalk` `pharo` [demo-seaside](https://github.com/CleverCloud/demo-seaside)
 - [demo-docker-rails](https://github.com/CleverCloud/demo-docker-rails)
 
+### Others
+
+- [demo-dart-mise](https://github.com/CleverCloud/dart-with-mise-example]
+- [demo-elixir-with-networkgroups](https://github.com/CleverCloud/elixir-libcluster-example)
+- [demo-astro](https://github.com/CleverCloud/astro-example)
+- [demo-mattermost](https://github.com/CleverCloud/mattermost-example)
+- [demo-angular-cli](https://github.com/CleverCloud/angular-example)
 
 ## How to Deploy
 
