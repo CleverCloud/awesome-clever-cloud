@@ -18,6 +18,7 @@
 - `official` [Gitter in English 🇬🇧](https://gitter.im/CleverCloud/chatroom-en)
 - `official` [Gitter in French 🇫🇷](https://gitter.im/CleverCloud/chatroom-fr)
 - `official` [Twitter 🇬🇧](https://twitter.com/clever_cloud)
+- `official` [Bluesky 🇫🇷](https://bsky.app/profile/clever.cloud)
 
 ## Blog
 
